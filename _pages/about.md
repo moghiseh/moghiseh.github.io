@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Departmant image Processing</p>
+    <p>Department image Processing</p>
     <p>Fraunhofer-Platz 1</p>
     <p>67663 Kaiserslautern</p>
     <p>Germany</p>
