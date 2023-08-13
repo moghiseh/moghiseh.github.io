@@ -20,8 +20,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I have been lucky enough to be part of the world of geomathematics, contributing in my own modest way to the fields of image processing and industrial project management. My journey began with the completion of my PhD in Geomathematics in 2007, and since then I've been trying to push the boundaries of knowledge and innovation, albeit with a lot of support and learning along the way.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Joining the prestigious Fraunhofer Institute for Industrial Mathematics (ITWM) in 2007 was an important step in my career. At ITWM, I've had the opportunity to play a role in the field of image processing, thanks to the guidance and collaboration of some brilliant minds. Using my understanding of mathematics, I've been involved in projects aimed at developing industrial surface inspection systems.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
