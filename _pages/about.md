@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://itwm.fhg.de'>Fraunhofer ITWM</a>. Address. Contacts. Moto. Etc.
+subtitle:  # <a href='https://itwm.fhg.de'>Fraunhofer ITWM</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
