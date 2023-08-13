@@ -9,7 +9,7 @@ profile:
   image: moghiseh_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department image Processing</p>
+    <p>Department of Image Processing</p>
     <p>Fraunhofer-Platz 1</p>
     <p>67663 Kaiserslautern</p>
     <p>Germany</p>
@@ -25,6 +25,10 @@ I have been lucky enough to be part of the world of geomathematics, contributing
 Joining the prestigious Fraunhofer Institute for Industrial Mathematics (ITWM) in 2007 was an important step in my career. At ITWM, I've had the opportunity to play a role in the field of image processing, thanks to the guidance and collaboration of some brilliant minds. Using my understanding of mathematics, I've been involved in projects aimed at developing industrial surface inspection systems.
 
 A highlight of my journey has been my involvement in a number of industrial projects. Whilst my contributions have hopefully been valuable, it's important to acknowledge that these projects are truly a collective effort, involving the insights and hard work of many. In the complex field of industrial surface inspection systems, I've strived to provide solutions that are effective, always aware that the complexities often hold more lessons than solutions.
+
+
+In addition to my work, I've been able to mentor and support Masters and PhD students. This role has been both honouring and rewarding as I've witnessed the growth and potential of these students, who often teach me as much as I teach them. Fostering academic growth has been a privilege and I'm grateful for the opportunity to contribute in this way.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
