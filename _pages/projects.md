@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Gallery
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of nice pictures
 nav: true
 nav_order: 2
 display_categories: [work, fun]
