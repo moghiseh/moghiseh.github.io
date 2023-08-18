@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /projects/
 description: A growing collection of nice pictures
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false

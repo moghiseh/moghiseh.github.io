@@ -106,6 +106,9 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
+imagesurl: "/assets/img/myimg/"
+thumbsurl: "/assets/img/myimg_thumbs/"
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
