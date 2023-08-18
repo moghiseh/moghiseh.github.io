@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: projects
 permalink: /projects/
 description: A growing collection of nice pictures
 nav: false
